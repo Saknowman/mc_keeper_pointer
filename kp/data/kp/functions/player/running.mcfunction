@@ -1,0 +1,1 @@
+function kp:player/observe_cd

@@ -1,0 +1,1 @@
+function kp:keeper/observe_catch_pointer
