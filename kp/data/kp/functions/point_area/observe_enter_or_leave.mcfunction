@@ -2,6 +2,7 @@
 execute at @e[tag=kp_point_area] if entity @a[tag=kp_player,tag=!kp_in_p_area,distance=..10] run tag @a[tag=kp_player,tag=!kp_in_p_area,distance=..10] add kp_entered_area
 execute at @e[tag=kp_point_area,tag=kp_area_id_1] if entity @a[tag=kp_player,tag=!kp_in_p_area,distance=..10] run tag @a[tag=kp_player,tag=!kp_in_p_area,distance=..10] add kp_area_id_1
 execute at @e[tag=kp_point_area,tag=kp_area_id_2] if entity @a[tag=kp_player,tag=!kp_in_p_area,distance=..10] run tag @a[tag=kp_player,tag=!kp_in_p_area,distance=..10] add kp_area_id_2
+execute at @e[tag=kp_point_area,tag=kp_area_id_3] if entity @a[tag=kp_player,tag=!kp_in_p_area,distance=..10] run tag @a[tag=kp_player,tag=!kp_in_p_area,distance=..10] add kp_area_id_3
 execute at @e[tag=kp_point_area,tag=kp_area_id_4] if entity @a[tag=kp_player,tag=!kp_in_p_area,distance=..10] run tag @a[tag=kp_player,tag=!kp_in_p_area,distance=..10] add kp_area_id_4
 execute at @e[tag=kp_point_area,tag=kp_area_id_5] if entity @a[tag=kp_player,tag=!kp_in_p_area,distance=..10] run tag @a[tag=kp_player,tag=!kp_in_p_area,distance=..10] add kp_area_id_5
 execute at @e[tag=kp_point_area,tag=kp_area_id_6] if entity @a[tag=kp_player,tag=!kp_in_p_area,distance=..10] run tag @a[tag=kp_player,tag=!kp_in_p_area,distance=..10] add kp_area_id_6
